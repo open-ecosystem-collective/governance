@@ -87,7 +87,7 @@ Every mandate delivered through the collective follows this split:
 
 ```
 70%  →  Network member (the person who did the work)
-20%  →  Open Ecosystem (methodology, community, tooling)
+20%  →  Open Ecosystem (Lua Chea) (methodology, community, tooling)
 10%  →  Vonarburg-Romero Consulting (brand, mandate sourcing, quality assurance)
 ```
 
