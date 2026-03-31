@@ -27,7 +27,7 @@ The Open Ecosystem Collective operates through two legal entities:
 **Vonarburg-Romero Consulting** (Einzelfirma · Tania Vonarburg-Romero)
 Commercial mandates, network contracts, revenue distribution.
 
-**Open Ecosystem** (Verein · ZGB Art. 60 ff.)
+**Lua Chea** (Verein · ZGB Art. 60 ff.)
 Methodology development, community, education, open source stewardship.
 
 Everything published in this repository belongs to the Foundation –
@@ -121,6 +121,6 @@ Current version: **v1.0** · Released: 2026
 
 ---
 
-*Open Ecosystem · [openecosystem.ch](https://openecosystem.ch)* to be founded
+*Open Ecosystem / Lua Chea · [openecosystem.ch](https://openecosystem.ch)* to be founded
 *Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland*
 *CC-BY-SA 4.0 – [github.com/open-ecosystem-collective](https://github.com/open-ecosystem-collective)*
