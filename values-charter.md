@@ -73,7 +73,7 @@ Open source runs on contribution without guaranteed return. Both are the same
 underlying belief – that giving first creates more value than extracting first.
 
 **What it looks like when it is lived:**
-- 20% of every mandate flows into the collective foundation
+- 10% of every mandate flows into the collective foundation
 - Knowledge is shared before a contract is secured
 - New members are actively guided, not left to find their own way
 - Clients receive more than was promised
