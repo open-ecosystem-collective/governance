@@ -228,6 +228,9 @@ The client knows what expertise they are getting and at what level.
 The project price is what it is. The revenue split is public.  
 70% goes to the person doing the work.
 
+**Results as open reference.**  
+By working with OEC, all clients agree that their anonymised results - findings, playbooks, assessment scores, and learnings - are shared within the collective on GitHub. No company names or confidential data are published without explicit consent. Every completed project enriches the collective's shared knowledge base and helps future clients and network members learn from real experience.
+
 ---
 
 *Open Ecosystem Collective · CC-BY-SA 4.0 · v1.0*  
