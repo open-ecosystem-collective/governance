@@ -57,13 +57,6 @@ understand the collective before committing to full membership.
 
 **Cost:** Free.
 
-### Corporate Member
-For companies who want to support the collective and receive access
-to the advisory network and co-branding opportunities.
-
-**Contribution:** CHF 2'400/year.  
-**Not eligible for:** mandate revenue, voting rights.
-
 ---
 
 ## How to become a Collective Member
