@@ -201,7 +201,6 @@ to keep it accessible to all members.
 **Is there a membership fee?**  
 No. The collective's sustainability comes from the 20% of mandate
 revenue that flows to the foundation (Lua Chea). Community members pay nothing.
-Corporate members contribute CHF 2'400/year.
 
 **What if I have questions before opening an issue?**  
 Reach out to Tania directly:  
