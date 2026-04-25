@@ -278,6 +278,27 @@ has already happened.
 
 ---
 
+## Client Knowledge Sharing Agreement
+
+All clients agree as part of the mandate that their **anonymised results** are shared within the OEC community on GitHub.
+
+This covers:
+- Assessment scores and maturity band classification
+- Key findings and gap analysis (anonymised)
+- Playbooks and frameworks developed during the mandate
+- Learnings and what worked — or did not work
+
+**What is never published without explicit written consent:**
+- Company names
+- Confidential business data
+- Specific partner names or financial figures
+
+The goal is simple: every completed project enriches the collective's shared knowledge base. Network members learn from real projects. Future clients benefit from accumulated experience. The community grows stronger with every mandate.
+
+This agreement is part of every OEC mandate contract and is acknowledged by the client at the start of the engagement.
+
+---
+
 ## Staying at a level by choice
 
 There is no obligation to advance. Some people are exceptional at Level 1
@@ -292,7 +313,7 @@ Compensation reflects the complexity of the work, not seniority for its own sake
 
 * They are not a measure of how long you have been in the collective
 * They are not a measure of how much you earn
-* They are not permanent – a member who consistently underdelivers
+* They are not permanent - a member who consistently underdelivers
   may be asked to step back to the previous level after a peer review process
 * They are not titles to put on a business card without the work behind them
 
