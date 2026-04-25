@@ -23,7 +23,7 @@ You grow by doing. Not by waiting.
 | 5 | Executive Advisor | C-level strategic partnership, monthly retainer | 4 | CHF 2'400 | CHF 9'600 |
 
 **Revenue split for all levels:**  
-`70% Person · 20% Lua Chea / EF · 10% Vonarburg-Romero Consulting
+`70% Person · 10% Lua Chea · 20% Vonarburg-Romero Consulting
 
 ---
 
