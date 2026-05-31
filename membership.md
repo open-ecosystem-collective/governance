@@ -13,7 +13,7 @@ To the values. To the community. To the work.
 ## Who this is for
 
 The Open Ecosystem Collective is for people who have experience in
-partner ecosystem management – or a strong foundation to grow into it –
+partner ecosystem management - or a strong foundation to grow into it –
 and who want to do that work within a values-based, transparent community
 rather than alone.
 
@@ -199,7 +199,7 @@ client needs. Internal collective communication is primarily English
 to keep it accessible to all members.
 
 **Is there a membership fee?**  
-No. The collective's sustainability comes from the 20% of mandate
+No. The collective's sustainability comes from the 10% of mandate
 revenue that flows to the foundation (Lua Chea). Community members pay nothing.
 
 **What if I have questions before opening an issue?**  
