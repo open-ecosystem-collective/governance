@@ -51,6 +51,30 @@ open, community-owned, permanently available.
 
 ---
 
+## Community governance: OEC Roundtables
+
+Beyond the methodology and the mandate structure, the OEC has a
+community ritual: the
+[OEC Roundtables](https://github.com/open-ecosystem-collective/roundtables).
+
+The Roundtables have their own light governance, documented in
+their repository:
+
+- The format itself - [format/agenda.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/agenda.md)
+- Partner commitments and the arrangement - [format/partner-brief.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/partner-brief.md)
+- Moderation notes for whoever runs an evening - [format/moderation.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/moderation.md)
+- Recurring questions and decisions - [format/faq.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/faq.md)
+
+The Roundtables governance principles match the ones in this repository:
+
+- **Openness** - the format, the agenda, the partner brief are public
+- **Neutrality** - no pay-to-stage, no sponsorship fees, no logo wall
+- **Generosity** - recordings stay with partners and the public archive
+- **Integrity** - if anything changes, it changes visibly, on GitHub,
+  in plain writing
+
+---
+
 ## The 5 maturity levels
 
 | Level | Role | Days/Month | Rate/Day |
