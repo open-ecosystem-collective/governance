@@ -26,7 +26,7 @@ governance documents.
   * Cross-repo coordination across `governance`, `methodology`,
     `roundtables`, and `landscape`
   * Founder veto on core values for three years (until 2029)
-* **Maintainer since:** 2026-04-16 (founding)
+* **Maintainer since:** 2026-05-01 (founding)
 * **Contact:** through [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com)
 ---
  
