@@ -40,7 +40,7 @@ ecosystem work.
 | 5     | Executive Advisor       | C-level strategic partnership, project-based       | Steward + Mentor + Maintainer | CHF 2'400 |
  
 **Revenue split for all levels:**
-`70% Person · 20% Vonarburg-Romero Consulting · 10% Lua Chea / EF`
+`100% Person` when you do it yourself, or `70% Person · 20% Vonarburg-Romero Consulting · 10% Collective` with the VRC admin offer
  
 ---
  
@@ -99,7 +99,7 @@ At Level 1, you are a Contributor in the open-source sense:
  
 * You can open issues and submit pull requests in any OEC repository
 * Your voice counts in Lazy Consensus decisions (72-hour silence = agreement)
-* You attend Roundtables, Discord, and community calls when you can
+* You attend the Fire Pit, Discord, and community calls when you can
 * You have no formal review or approval rights yet
 ### Core strengths for this role
  
@@ -215,7 +215,7 @@ Level 3 is where mentoring becomes mandatory.
 * You meet with that mentee at least 2 hours per month
 * You document the mentoring relationship in the collective's shared register
 * You continue reviewing PRs in your area of focus
-* You may be invited to co-chair a small initiative (e.g. a roundtable
+* You may be invited to co-chair a small initiative (e.g. a Fire Pit
   edition, a methodology update sprint)
 ### Core strengths for this role
  
@@ -263,7 +263,7 @@ actually execute.
 At Level 4, you carry repository-level responsibility:
  
 * **Maintainer status** on one OEC repository (methodology, governance,
-  roundtables, landscape, or a future one). You can approve and merge PRs.
+  fire-pit, stories, landscape, or a future one). You can approve and merge PRs.
 * You are listed in `MAINTAINERS.md` of that repository, with your area
   of responsibility and contact
 * You hold at least one office hour per quarter (one-hour open slot for

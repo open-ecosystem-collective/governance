@@ -21,7 +21,7 @@ Every value in this charter comes from one or more of three communities
 that have already solved the question of how to build something sustainable
 without controlling each other.
 
-| 🌿 Lua Chea | ☁️ CNCF / Cloud Native | ⚙️ Open Source |
+| 🌿 Community non-profits | ☁️ CNCF / Cloud Native | ⚙️ Open Source |
 |---|---|---|
 | Community, trust, inclusion | Trusted · Open · Neutral · Meritocracy | Community over Code · Forkable · Transparent |
 | No one excluded for lack of means | Minimal viable governance | Contribution counts more than time |
@@ -37,7 +37,7 @@ without controlling each other.
 
 > *What we know, we share. What we build, we show. What we decide, we explain.*
 
-**Rooted in:** Lua Chea · CNCF · Open Source
+**Rooted in:** Community · CNCF · Open Source
 
 The CNCF Charter states it directly: openness and transparency are foundational.
 For us this means the methodology is public, prices are documented, and decisions
@@ -66,14 +66,14 @@ an advantage if I had kept it?
 
 > *We give first – knowledge, time, connections – not because we must, but because the network grows stronger when everyone gives.*
 
-**Rooted in:** Lua Chea · Open Source
+**Rooted in:** Community · Open Source
 
-Lua Chea runs on a donation model: those who can pay, carry those who cannot.
+Community non-profits run on a donation model: those who can pay, carry those who cannot.
 Open source runs on contribution without guaranteed return. Both are the same
 underlying belief – that giving first creates more value than extracting first.
 
 **What it looks like when it is lived:**
-- 10% of every mandate flows into the collective foundation
+- 10% of every mandate run through the admin offer flows to the collective
 - Knowledge is shared before a contract is secured
 - New members are actively guided, not left to find their own way
 - Clients receive more than was promised
@@ -125,7 +125,7 @@ own interest but in the interest of the collective or the client?
 
 > *Different ways of thinking are not a problem to be solved – they are the strength of this collective.*
 
-**Rooted in:** Lua Chea · CNCF · Open Source
+**Rooted in:** Community · CNCF · Open Source
 
 The CNCF Code of Conduct explicitly names neurodiversity alongside age, gender,
 and ethnicity as protected dimensions. The Cloud Native community – like open
@@ -158,7 +158,7 @@ I do not yet fully understand or recognise?
 
 > *We say what is true even when it is uncomfortable. We start before we are ready. We give feedback even when it creates friction.*
 
-**Rooted in:** Lua Chea · Open Source
+**Rooted in:** Community · Open Source
 
 Neurodiversity in Business means talking openly about neurodiversity in a world
 that does not. Open source means publishing your work before it is perfect and
@@ -188,9 +188,9 @@ that was uncomfortable – and said it anyway?
 
 > *What you take, you give back – not immediately, not the same amount, but consciously and continuously.*
 
-**Rooted in:** Lua Chea · Open Source
+**Rooted in:** Community · Open Source
 
-Lua Chea's model: those who participate today make it possible for someone
+The non-profit model: those who participate today make it possible for someone
 else to participate tomorrow. Open source: bug reports, documentation,
 code reviews – contribution without direct return. The CNCF End User
 Community gives feedback back to the projects it depends on.
@@ -221,7 +221,7 @@ to a member, to a client?
 
 **Rooted in:** All three worlds
 
-Lua Chea's non-profit status: every franc goes to the purpose, verifiably.
+Non-profit practice: every franc goes to the purpose, verifiably.
 CNCF's open governance: decisions are public, traceable, auditable.
 Open source licences: a promise that is kept regardless of who is watching.
 The same standard applies here.

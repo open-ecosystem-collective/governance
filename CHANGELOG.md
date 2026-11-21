@@ -13,6 +13,21 @@ Format: `[version] – date – what changed – who proposed it`
 
 *Changes that have been merged but not yet tagged as a release.*
 
+### 2026-11-21
+
+- Two ways to deliver a mandate: do it yourself and keep 100%, or leave the admin
+  to Vonarburg-Romero Consulting and the 70/20/10 split applies
+  (`README.md`, `pricing.md`, `membership.md`, `maturity-levels.md`)
+- The 10% share goes to the collective. The structure section no longer names
+  a second legal entity
+- `values-charter.md`: the first of the three sources is now "Community non-profits".
+  The seven values are unchanged
+- OEC Roundtables are now the Open Ecosystem Fire Pit. Open Ecosystem Success
+  Stories are linked as the second community format
+
+**Proposed by:** Tania Vonarburg-Romero
+**Decision process:** Founder decision
+
 ---
 
 ## v1.0 – 2026

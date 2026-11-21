@@ -42,7 +42,8 @@ Full participation. Mandates, revenue split, peer review, voting rights.
 This is the core membership. You deliver client work under the OEC methodology,
 you contribute to the community, and you grow through the maturity levels.
 
-**Revenue:** 70% of mandate value goes to you directly.
+**Revenue:** 100% if you contract and invoice the client yourself. 70% if
+you leave the admin to Vonarburg-Romero Consulting (see [pricing](pricing.md)).
 
 ### Community Member
 Observer and contributor. No mandates, no revenue split, full access
@@ -186,7 +187,7 @@ It is not used lightly.
 **Can I work with clients outside the collective while being a member?**  
 Yes. Membership does not require exclusivity. The only requirement is
 that work brought through the collective's network uses the collective's
-methodology and follows the revenue split.
+methodology. If it runs through the VRC admin offer, the revenue split applies.
 
 **What if I want to start at Level 1 but have more experience?**  
 You can. Some people choose to start at a lower level deliberately –
@@ -199,12 +200,11 @@ client needs. Internal collective communication is primarily English
 to keep it accessible to all members.
 
 **Is there a membership fee?**  
-No. The collective's sustainability comes from the 10% of mandate
-revenue that flows to the foundation (Lua Chea). Community members pay nothing.
+No. The collective's sustainability comes from the 10% share of mandates
+that run through the VRC admin offer. Community members pay nothing.
 
 **What if I have questions before opening an issue?**  
 Reach out to Tania directly:  
-📧 tania.romero@windowslive.com  
 🔗 [linkedin.com/in/tanvonrom](https://linkedin.com/in/tanvonrom)
 
 ---

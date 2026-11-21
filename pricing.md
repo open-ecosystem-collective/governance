@@ -177,22 +177,28 @@ each role has a defined day rate, and project prices are calculated accordingly.
 
 ## Revenue Split
 
-All mandates run through the OEC collective.  
-Every invoice is issued by VRC. Payout to the network member happens after client payment is received.
+There are two ways to deliver a mandate.
+
+**Do it yourself.** You contract and invoice the client directly, with the
+prices and the methodology in this repository. You keep 100%.
+
+**Leave the admin to VRC.** Vonarburg-Romero Consulting issues the invoice,
+manages the contract and carries the payment risk. Payout to the network
+member happens after client payment is received.
 
 ```
 70%  →  Network Member (executing the mandate)
 20%  →  VRC (invoicing, contract management, payment risk)
-10%  →  Lua Chea (mentoring, community building, methodology infrastructure)
+10%  →  The collective (mentoring, community building, methodology infrastructure)
 ```
 
-**Why VRC takes 20%:**  
-VRC issues the invoice, manages the contract, and carries the payment risk.  
-The network member does not chase payments or handle administration.  
-Payout is guaranteed once the client has paid — not before.
+**Why VRC takes 20%:**
+VRC issues the invoice, manages the contract, and carries the payment risk.
+The network member does not chase payments or handle administration.
+Payout is guaranteed once the client has paid, not before.
 
-**Why Lua Chea takes 10%:**  
-Lua Chea provides mentoring, community building, and maintains the open-source  
+**Why the collective takes 10%:**
+The collective provides mentoring, community building, and maintains the open-source
 methodology infrastructure that makes OEC mandates possible.
 
 ---

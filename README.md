@@ -22,16 +22,18 @@ Licensed **CC-BY-SA 4.0** – use it, adapt it, give back under the same terms.
 ---
 
 ## Our structure
-The Open Ecosystem Collective operates through two legal entities:
 
-**Vonarburg-Romero Consulting** (Einzelfirma · Tania Vonarburg-Romero)
-Commercial mandates, network contracts, revenue distribution.
+Everything published here belongs to the collective: open, community-owned,
+permanently available.
 
-**Lua Chea** (Verein · ZGB Art. 60 ff.)
-Methodology development, community, education, open source stewardship.
+There are two ways to deliver a mandate with the methodology.
 
-Everything published in this repository belongs to the Foundation –
-open, community-owned, permanently available.
+**Do it yourself.** Take the documents, contract and invoice your client
+directly. You keep 100%.
+
+**Deliver, and leave the admin to someone else.** If you'd rather not handle
+contracts, invoicing and payment risk, [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com)
+offers to carry it. Then the [revenue split](#revenue-split) applies.
 
 ---
 
@@ -51,21 +53,21 @@ open, community-owned, permanently available.
 
 ---
 
-## Community governance: OEC Roundtables
+## Community formats
 
-Beyond the methodology and the mandate structure, the OEC has a
-community ritual: the
-[OEC Roundtables](https://github.com/open-ecosystem-collective/roundtables).
+Beyond the methodology and the mandate structure, the OEC runs two
+community formats, each with its own light governance in its repository:
 
-The Roundtables have their own light governance, documented in
-their repository:
+- [Open Ecosystem Fire Pit](https://github.com/open-ecosystem-collective/fire-pit):
+  the [format](https://github.com/open-ecosystem-collective/fire-pit/blob/main/format/agenda.md),
+  the [partner brief](https://github.com/open-ecosystem-collective/fire-pit/blob/main/format/partner-brief.md),
+  [moderation notes](https://github.com/open-ecosystem-collective/fire-pit/blob/main/format/moderation.md)
+  and the [FAQ](https://github.com/open-ecosystem-collective/fire-pit/blob/main/format/faq.md)
+- [Open Ecosystem Success Stories](https://github.com/open-ecosystem-collective/stories):
+  the [blueprint](https://github.com/open-ecosystem-collective/stories/blob/main/blueprint.md)
+  and the [prompts](https://github.com/open-ecosystem-collective/stories/tree/main/prompts)
 
-- The format itself - [format/agenda.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/agenda.md)
-- Partner commitments and the arrangement - [format/partner-brief.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/partner-brief.md)
-- Moderation notes for whoever runs an evening - [format/moderation.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/moderation.md)
-- Recurring questions and decisions - [format/faq.md](https://github.com/open-ecosystem-collective/roundtables/blob/main/format/faq.md)
-
-The Roundtables governance principles match the ones in this repository:
+Their governance principles match the ones in this repository:
 
 - **Openness** - the format, the agenda, the partner brief are public
 - **Neutrality** - no pay-to-stage, no sponsorship fees, no logo wall
@@ -107,16 +109,17 @@ Tania holds a founder veto on core value changes for the first 3 years.
 
 ## Revenue split
 
-Every mandate delivered through the collective follows this split:
+If you do it yourself, you keep 100%.
+
+If Vonarburg-Romero Consulting carries the admin, this split applies:
 
 ```
 70%  →  Network member (the person who did the work)
-20%  →  Vonarburg-Romero Consulting (brand, mandate sourcing, quality assurance, tooling, invoicing)
-10%  →  Open Ecosystem (Lua Chea) (methodology, community)
-
+20%  →  Vonarburg-Romero Consulting (contracts, invoicing, payment risk)
+10%  →  The collective (methodology, community)
 ```
 
-This is non-negotiable and applies to all engagements equally.
+It applies equally to every mandate that uses the offer.
 It is documented here so every member and every client can see it.
 
 ---
@@ -146,6 +149,6 @@ Current version: **v1.0** · Released: 2026
 
 ---
 
-*Open Ecosystem / Lua Chea · [openecosystem.ch](https://openecosystem.ch)* to be founded
+*Open Ecosystem Collective · [open-ecosystem-collective.com](https://open-ecosystem-collective.com)*
 *Founded by Tania Vonarburg-Romero · Kanton Aargau, Switzerland*
 *CC-BY-SA 4.0 – [github.com/open-ecosystem-collective](https://github.com/open-ecosystem-collective)*

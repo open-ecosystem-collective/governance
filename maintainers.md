@@ -24,7 +24,7 @@ governance documents.
   * All governance documents (maturity-levels, values-charter,
     decision-making, membership, pricing)
   * Cross-repo coordination across `governance`, `methodology`,
-    `roundtables`, and `landscape`
+    `fire-pit`, `stories`, and `landscape`
   * Founder veto on core values for three years (until 2029)
 * **Maintainer since:** 2026-05-01 (founding)
 * **Contact:** through [Vonarburg-Romero Consulting](https://vonarburg-romero-consulting.com)
