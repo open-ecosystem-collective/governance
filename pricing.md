@@ -40,8 +40,8 @@ If a client needs further support, they request a new mandate.
 | Company Size | Complexity | Duration | Total |
 |---|---|---|---|
 | 5–8 employees | No existing partnerships | 1h | CHF 175 |
-| 8–12 employees | First partnerships in place | 2h | CHF 350 |
-| 12–20 employees | Multiple active partners | 3h | CHF 525 |
+| 9–12 employees | First partnerships in place | 2h | CHF 350 |
+| 13–20 employees | Multiple active partners | 3h | CHF 525 |
 | Multi-cloud · active MDF | High complexity | 4h | CHF 700 |
 
 **What the assessment delivers:**
